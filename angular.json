@@ -123,6 +123,7 @@
   },
   "defaultProject": "effects",
   "cli": {
-    "analytics": "b395422e-774a-4a74-8b00-94552f52de64"
+    "defaultCollection": "@ngrx/schematics",
+    "analytics": "ad90955a-b6fa-45ea-a4d5-e250cc81d212"
   }
 }
